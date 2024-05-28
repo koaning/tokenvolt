@@ -32,7 +32,7 @@ This is a bit slow the first time you run it because the backend needs to be pro
 
 If you really really wanted to you could inspect the cache. Here's what it could look like from datasette.
 
-![]('imgs/datasette.png')
+![](imgs/datasette.png)
 
 From here you may fetch the embeddings by looping over all the cache values.
 
